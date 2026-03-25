@@ -1,0 +1,14 @@
+
+.warning-text {
+    color: #ffcc00 !important;
+    font-weight: 500;
+}
+
+.status-tip {
+    font-size: 11px;
+    color: #ff9900;
+    margin-top: 4px;
+    background: rgba(255, 153, 0, 0.1);
+    padding: 4px;
+    border-radius: 4px;
+}
