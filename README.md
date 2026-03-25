@@ -101,3 +101,13 @@ https://any.run/report/230b91dd4ecb22ca7333c3ed76032a392ac3ee1ce07813a12dd04665d
 ## Copyright
 
 Copyright (c) 2026 zemidev01
+
+## Attribution
+
+DarkGuard was originally created by zemidev01.
+
+If you redistribute modified versions of this software, you must:
+
+- Retain the original copyright notice
+- Clearly indicate that your version is modified
+- Not misrepresent the origin of the project
